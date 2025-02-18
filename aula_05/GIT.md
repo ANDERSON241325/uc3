@@ -13,3 +13,4 @@
  9. git comit -m "A informação fica aqui" -> Realiza um novo commit no repositório local.git 
  10. git rmote add origin endereço ou caminho_do_repositório_remoto -> Comando para relaizar a sincronização do repositório local com remoto. 
  11. git push -u origin main -> Envia o repositório local para o remoto.   
+ 

@@ -30,7 +30,21 @@ cammelCase
 
  3. Para converter uma string para `int` ou `float`, podemos utilizar os métodos  `int()` ou `float()`.
 
-## Atalhos no VScode
+# Aula 05
+## Estruturas de repetção 
+1. For
+=> Você vai utilizar quando de  antemão se sabe a quantidade de vezes a repetição irá acontecer . Normalmente, é utilizado para iterar sobre elementos de uma sequência.
+ 1.1 - range() => Gera uma sequência de números. (inclusivo,exclusivo).
+
+2. while 
+=> Será utilizado quando você não se sabe ao certo  quantas vezes a repetição irá aconecer. Será executando enquanto a condição for verdadeira. 
+
+
+
+
+
+
+# Atalhos no VScode
 ``ctrl + B`` => Oculta ou exibe o explorador.
 ``ctrl + ;`` => Comenta ou descomenta um códico.
 ``ctrl + c`` => Copiar.
